@@ -1,0 +1,259 @@
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Form1.resources
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Form2.resources
+D:\TÀI LIỆU HỌC TẬP NĂM 3\HỌC KÌ 1\LAP TRINH DOTNET\TIEU LUAN\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Form3.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\TIEULUANDOTNET\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPN.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+E:\Temp\Temp\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPN.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieuxuat.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPX.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPN.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPX.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieuxuat.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+G:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPN.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPX.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieuxuat.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+E:\Document\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPN.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPX.resources
+D:\Data\CSharp\bk\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieuxuat.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPN.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPX.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieuxuat.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTCC.resources
+D:\Data\CSharp\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Chamcong.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Chamcong.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTCC.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.Shared.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\ShockwaveFlashObjects.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\stdole.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.LSGiaodich.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.Shared.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\ShockwaveFlashObjects.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\stdole.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Chamcong.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTCC.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPN.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPX.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.LSGiaodich.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieuxuat.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.BaoCaoDoanhThu.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.BaoCaoChamCong.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.BaoCaoChamCong.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.BaoCaoDoanhThu.resources
+D:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DSBanChay.resources
+E:\Data\CSharp\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DSBanChay.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.Shared.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\ShockwaveFlashObjects.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\stdole.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojAssemblyReference.cache
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.BaoCaoChamCong.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.BaoCaoDoanhThu.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Chamcong.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTCC.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPN.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.CTPX.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DangNhap.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DoiMK.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.DSBanChay.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.LSGiaodich.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieunhap.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Phieuxuat.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QuanLi.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLBanHang.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.QLHeThong.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.HoaDon.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CopyComplete
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+E:\Data\CSharp\File gốc\Tieuluan\Tieuluandotnet\GUI\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.TKKH.resources
